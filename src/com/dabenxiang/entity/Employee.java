@@ -1,4 +1,4 @@
-package com.daBenXiang.service.entity;
+package com.dabenxiang.entity;
 
 import lombok.Data;
 

@@ -16,7 +16,7 @@ services:
       MYSQL_DATABASE: $MYSQL_DATABASE
       TZ: Etc/Greenwich
     ports:
-      - "3300:3306"
+      - "3306:3306"
     expose:
       - "3306"
     volumes:
